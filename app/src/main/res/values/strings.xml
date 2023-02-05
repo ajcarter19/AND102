@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="ajah_intro">Hi hi! I\'m Ajah and this can be a mental image for what I look like! (I didn\'t draw the image though, sadly.)</string>
+    <string name="button_surprise">Click for a surprise!</string>
+</resources>
