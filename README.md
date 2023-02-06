@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+A quick demonstration of implemented features:
 
-<img src='AppRecord.gif' title='App Demonstration' width='' alt='App Demo' />
+<img src='Downloads/AppRecord.gif' title='App Demonstration' width='' alt='App Demo' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF 
