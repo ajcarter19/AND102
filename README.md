@@ -35,7 +35,7 @@ GIF created with ScreenToGIF
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Nothing too difficult with building this app! Exporting it was more cumbersome from my experience.
 
 ## License
 
