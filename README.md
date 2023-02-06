@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 A quick demonstration of implemented features:
 
-<img src='https://imgur.com/CELdX9z.gif' title='App Demonstration' width='100' alt='App Demo' />
+<img src='https://imgur.com/CELdX9z.gif' title='App Demonstration' width='300' alt='App Demo' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF 
